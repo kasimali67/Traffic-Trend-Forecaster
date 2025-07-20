@@ -1,0 +1,19 @@
+Traffic-Trend-Forecaster/
+├── .bolt/
+│   └── prompt
+├── src/
+│   └── components/
+│       └── TrafficChart.js
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── structure.txt
+├── tailwind.config.js
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
